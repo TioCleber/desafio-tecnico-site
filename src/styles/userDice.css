@@ -1,0 +1,59 @@
+button + button {
+  display: block;
+  margin-top: 1rem;
+}
+
+.btn-add {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.cards {
+  margin-top: 1rem;
+}
+
+.cards, .card-info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card-info {
+  justify-content: space-between;
+}
+
+.cards + .cards {
+  margin: 1rem 0;
+}
+
+.card-info {
+  width: 400px;
+  background: #9117ff;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.card-info div + div {
+  margin-left: 1rem;
+}
+
+.card-info span {
+  color: #000;
+}
+
+.card-info p {
+  font-size: 1.2rem;
+}
+
+.card-info p + p {
+  margin-top: 1rem;
+}
+
+.center-btn-modal {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+

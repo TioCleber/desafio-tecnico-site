@@ -1,0 +1,26 @@
+header {
+  padding: 24px;
+  background: royalblue;
+}
+
+.list-route {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+}
+
+.list-route li + li {
+  margin-left: 1rem;
+}
+
+.list-route a {
+  padding: 15px 10px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.list-route a:hover {
+  color: rgba(8, 55, 197, 0.712);
+}
+
