@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/desafio-tecnico-site/static/css/main.3a368ecb.chunk.css",
+    "main.js": "/desafio-tecnico-site/static/js/main.79b92495.chunk.js",
+    "main.js.map": "/desafio-tecnico-site/static/js/main.79b92495.chunk.js.map",
+    "runtime-main.js": "/desafio-tecnico-site/static/js/runtime-main.23bde1ae.js",
+    "runtime-main.js.map": "/desafio-tecnico-site/static/js/runtime-main.23bde1ae.js.map",
+    "static/js/2.11f2a603.chunk.js": "/desafio-tecnico-site/static/js/2.11f2a603.chunk.js",
+    "static/js/2.11f2a603.chunk.js.map": "/desafio-tecnico-site/static/js/2.11f2a603.chunk.js.map",
+    "index.html": "/desafio-tecnico-site/index.html",
+    "static/css/main.3a368ecb.chunk.css.map": "/desafio-tecnico-site/static/css/main.3a368ecb.chunk.css.map",
+    "static/js/2.11f2a603.chunk.js.LICENSE.txt": "/desafio-tecnico-site/static/js/2.11f2a603.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23bde1ae.js",
+    "static/js/2.11f2a603.chunk.js",
+    "static/css/main.3a368ecb.chunk.css",
+    "static/js/main.79b92495.chunk.js"
+  ]
+}
