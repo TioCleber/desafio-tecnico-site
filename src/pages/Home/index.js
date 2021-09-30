@@ -82,7 +82,7 @@ function Home({ children }) {
 
             {error ? <S.Aviso>Erro em se Alistar!!!</S.Aviso> : ''}
 
-            {success ? <S.Success>Seja Bem-Vindo a Aliança {name}!!!</S.Success> : ''}
+            {success ? <S.Success>Seja Bem-Vindo a Aliança!!!</S.Success> : ''}
 
             <S.Btn>Enviar</S.Btn>
           </form>
